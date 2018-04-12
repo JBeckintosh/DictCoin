@@ -1,4 +1,6 @@
-Words database:
+#H1 Words database:
+
+
 
 string Word
 
@@ -6,7 +8,9 @@ int Owner_ID -> owners.id
 
 string previousOwners
 
-Owners database:
+
+
+#H1 Owners database:
 
 int ID
 
