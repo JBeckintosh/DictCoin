@@ -1,4 +1,4 @@
-#H1 Words database:
+# Words database:
 
 
 
@@ -10,7 +10,7 @@ string previousOwners
 
 
 
-#H1 Owners database:
+# Owners database:
 
 int ID
 
